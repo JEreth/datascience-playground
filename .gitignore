@@ -1,0 +1,5 @@
+data/
+DataSets/
+.idea
+.vscode
+*.model
